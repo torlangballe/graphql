@@ -10,5 +10,6 @@ It doesn't yet:
 * Handle nested types
 * Show ! and [] properly if there's a list of non-nulls instead of a non-null list.
 * Handle interfaces or unions
+* Have tests using ID scalar.
 
 ![Alt text](/output.png?raw=true "Output")
