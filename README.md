@@ -6,6 +6,9 @@ add a -debug flag to dump the raw json received from the server.
 
 the output is color formatted to be similar to the examples on graphql.org, but is optimzed more for display on a dark background.
 
-It doesn't yet handle nested types, or even show ! and [] properly if there's a list of non-nulls instead of a non-null list.
+It doesn't yet:
+* Handle nested types
+* Show ! and [] properly if there's a list of non-nulls instead of a non-null list.
+* Handle interfaces or unions
 
 ![Alt text](/output.png?raw=true "Output")
