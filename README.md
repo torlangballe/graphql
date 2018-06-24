@@ -8,4 +8,4 @@ the output is color formatted to be similar to the examples on graphql.org, but 
 
 It doesn't yet handle nested types, or even show ! and [] properly if there's a list of non-nulls instead of a non-null list.
 
-
+![Alt text](/output.png?raw=true "Output")
