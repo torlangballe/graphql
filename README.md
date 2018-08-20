@@ -1,3 +1,5 @@
+NOTE: Not quite compiling yet, a utility dependency slipped in.
+
 This is a simple command line tool written in Go, that sends a full schema dump request query to a  graphql query and shows it in a format similar to the GraphQL schema language used at graphql.org and in some graphql server implementations.
 
 graphql \<url\> [-debug]  
